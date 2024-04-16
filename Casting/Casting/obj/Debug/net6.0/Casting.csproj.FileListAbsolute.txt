@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\TASKS\Casting\Casting\obj\Debug\net6.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TASKS\Casting\Casting\obj\Debug\net6.0\Casting.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TASKS\Casting\Casting\obj\Debug\net6.0\Casting.AssemblyInfo.cs
+C:\Users\User\Desktop\TASKS\Casting\Casting\obj\Debug\net6.0\Casting.csproj.CoreCompileInputs.cache

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\TASKS\\Casting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{331E8A85-4B7B-453B-95FF-4E12D643FF68}|Casting\\Casting.csproj|c:\\users\\user\\desktop\\tasks\\casting\\casting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331E8A85-4B7B-453B-95FF-4E12D643FF68}|Casting\\Casting.csproj|solutionrelative:casting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C26D40-99B4-4522-A549-9F551A1641D1}|Core\\Core.csproj|c:\\users\\user\\desktop\\tasks\\casting\\core\\models\\rentcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C26D40-99B4-4522-A549-9F551A1641D1}|Core\\Core.csproj|solutionrelative:core\\models\\rentcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C26D40-99B4-4522-A549-9F551A1641D1}|Core\\Core.csproj|c:\\users\\user\\desktop\\tasks\\casting\\core\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C26D40-99B4-4522-A549-9F551A1641D1}|Core\\Core.csproj|solutionrelative:core\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C26D40-99B4-4522-A549-9F551A1641D1}|Core\\Core.csproj|c:\\users\\user\\desktop\\tasks\\casting\\core\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C26D40-99B4-4522-A549-9F551A1641D1}|Core\\Core.csproj|solutionrelative:core\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C26D40-99B4-4522-A549-9F551A1641D1}|Core\\Core.csproj|c:\\users\\user\\desktop\\tasks\\casting\\core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C26D40-99B4-4522-A549-9F551A1641D1}|Core\\Core.csproj|solutionrelative:core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentCar.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TASKS\\Casting\\Core\\Models\\RentCar.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\RentCar.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TASKS\\Casting\\Core\\Models\\RentCar.cs",
+              "RelativeToolTip": "Core\\Models\\RentCar.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:42:23.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TASKS\\Casting\\Core\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TASKS\\Casting\\Core\\Models\\Car.cs",
+              "RelativeToolTip": "Core\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:41:29.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TASKS\\Casting\\Core\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TASKS\\Casting\\Core\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Core\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:41:08.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TASKS\\Casting\\Core\\Models\\Truck.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Truck.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TASKS\\Casting\\Core\\Models\\Truck.cs",
+              "RelativeToolTip": "Core\\Models\\Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:41:57.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TASKS\\Casting\\Casting\\Program.cs",
+              "RelativeDocumentMoniker": "Casting\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TASKS\\Casting\\Casting\\Program.cs",
+              "RelativeToolTip": "Casting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:39:39.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
